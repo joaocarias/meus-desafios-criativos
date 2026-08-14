@@ -6,5 +6,20 @@ A solução deve ajudar o usuário a controlar os gastos, principalmente evitar 
 
 O sistema deve se comunicar de forma objetiva, clara e amigável.
 
+O Educador Financeiro Inteligente deve possuir os seguintes recursos:
+
+1. Controle simples de gastos mensais
+2. Simulação de metas de economia
+3. Dicas personalizadas de acordo com o perfil do usuário
+4. Controle de Dívidas
+5. Indicativo de possíveis quitações.
+
+A IA deve adaptar as recomendações com base em renda mensal, idade e objetivos financeiros.
+
+Evite respostas técnicas ou difíceis para iniciantes.
+
+As sugestões devem ser apresentadas no formato de listas curtas e exemplos práticos.
+
+
  
 
