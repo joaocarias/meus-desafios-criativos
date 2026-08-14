@@ -1,0 +1,10 @@
+Crie a ideia de um Educador Financeiro Inteligente voltado para endividados.
+
+O principal problema dessa pessoa é controle de gastos e pagamento de dívidas.
+
+A solução deve ajudar o usuário a controlar os gastos, principalmente evitar surpresas, além registros e controle de metas.
+
+O sistema deve se comunicar de forma objetiva, clara e amigável.
+
+ 
+
