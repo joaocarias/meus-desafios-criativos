@@ -1,24 +1,24 @@
-Crie a ideia de um Educador Financeiro Inteligente voltado para endividados.
+Atue como um especialista em educação financeira digital.
 
-O principal problema dessa pessoa é controle de gastos e pagamento de dívidas.
+Crie a proposta de um Educador Financeiro Inteligente para controle de dívidas.
 
-A solução deve ajudar o usuário a controlar os gastos, principalmente evitar surpresas, além registros e controle de metas.
+O sistema deve ajudar o usuário a controlar gastos, criar metas de economia e aprender conceitos básicos de finanças, bem como poder ajudar no controle de dívidas e indicar possíveis quitações.
 
-O sistema deve se comunicar de forma objetiva, clara e amigável.
+As principais funcionalidades devem incluir:
+- Painel simples de gastos
+- Alertas de despesas exageradas
+- Recomendações personalizadas de economia
+- Controle de Dívidas
+- Indicativo de possíveis quitações.
 
-O Educador Financeiro Inteligente deve possuir os seguintes recursos:
+A comunicação deve ser amigável e objetiva.
 
-1. Controle simples de gastos mensais
-2. Simulação de metas de economia
-3. Dicas personalizadas de acordo com o perfil do usuário
-4. Controle de Dívidas
-5. Indicativo de possíveis quitações.
+As respostas devem seguir o formato de listas práticas e exemplos do cotidiano.
 
-A IA deve adaptar as recomendações com base em renda mensal, idade e objetivos financeiros.
+Evite termos técnicos difíceis e respostas genéricas.
 
-Evite respostas técnicas ou difíceis para iniciantes.
+Ao final, apresente sugestões criativas para transformar essa ideia em um projeto frontend interativo.
 
-As sugestões devem ser apresentadas no formato de listas curtas e exemplos práticos.
 
 
  
